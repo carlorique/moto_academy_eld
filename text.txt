@@ -1,0 +1,7 @@
+
+<form name="input" action="html_form_action.asp"
+method="get">
+Nome do Usuário: 
+<input type="text" name="user">
+<input type="submit" value="Enviar">
+</form>
